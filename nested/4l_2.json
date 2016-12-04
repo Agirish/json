@@ -1,31 +1,31 @@
 {
-  "level1" : {
-    "field1" : "a",
-    "field2" : {
-      "nfield1" : false,
-      "nfield2" : 1.1
+  "level1": {
+    "field1": "a",
+    "field2": {
+      "nfield1": false,
+      "nfield2": 1.1
     },
-    "level2" : {
-      "field1" : "b",
-      "field2" : {
-        "nfield1" : false,
-        "nfield2" : 2.2
+    "level2": {
+      "field1": "b",
+      "field2": {
+        "nfield1": false,
+        "nfield2": 2.2
       },
-      "level3" : {
-        "field1" : "c",
-        "field2" : {
-          "nfield1" : true,
-          "nfield2" : 3.3
+      "level3": {
+        "field1": "c",
+        "field2": {
+          "nfield1": true,
+          "nfield2": 3.3
         },
-        "level4" : {
-          "field1" : "d",
-          "field2" : {
-            "nfield1" : false,
-            "nfield2" : 4.4
+        "level4": {
+          "field1": "d",
+          "field2": {
+            "nfield1": false,
+            "nfield2": 4.4
           }
         }
       }
     }
   },
-  "_id":"ID"
+  "_id": "ID"
 }

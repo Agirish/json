@@ -1,147 +1,147 @@
 {
-  "level1" : {
-    "field1" : "a",
-    "field2" : {
-      "nfield1" : true,
-      "nfield2" : 1.1
+  "level1": {
+    "field1": "a",
+    "field2": {
+      "nfield1": true,
+      "nfield2": 1.1
     },
-    "level2" : {
-      "field1" : "b",
-      "field2" : {
-        "nfield1" : false,
-        "nfield2" : 2.2
+    "level2": {
+      "field1": "b",
+      "field2": {
+        "nfield1": false,
+        "nfield2": 2.2
       },
-      "level3" : {
-        "field1" : "c",
-        "field2" : {
-          "nfield1" : true,
-          "nfield2" : 3.3
+      "level3": {
+        "field1": "c",
+        "field2": {
+          "nfield1": true,
+          "nfield2": 3.3
         },
-        "level4" : {
-          "field1" : "d",
-          "field2" : {
-            "nfield1" : false,
-            "nfield2" : 4.4
+        "level4": {
+          "field1": "d",
+          "field2": {
+            "nfield1": false,
+            "nfield2": 4.4
           },
-          "level5" : {
-            "field1" : "e",
-            "field2" : {
-              "nfield1" : true,
-              "nfield2" : 5.5
+          "level5": {
+            "field1": "e",
+            "field2": {
+              "nfield1": true,
+              "nfield2": 5.5
             },
-            "level6" : {
-              "field1" : "f",
-              "field2" : {
-                "nfield1" : false,
-                "nfield2" : 6.6
+            "level6": {
+              "field1": "f",
+              "field2": {
+                "nfield1": false,
+                "nfield2": 6.6
               },
-              "level7" : {
-                "field1" : "g",
-                "field2" : {
-                  "nfield1" : true,
-                  "nfield2" : 7.7
+              "level7": {
+                "field1": "g",
+                "field2": {
+                  "nfield1": true,
+                  "nfield2": 7.7
                 },
-                "level8" : {
-                  "field1" : "h",
-                  "field2" : {
-                    "nfield1" : false,
-                    "nfield2" : 8.8
+                "level8": {
+                  "field1": "h",
+                  "field2": {
+                    "nfield1": false,
+                    "nfield2": 8.8
                   },
-                  "level9" : {
-                    "field1" : "i",
-                    "field2" : {
-                      "nfield1" : true,
-                      "nfield2" : 9.9
+                  "level9": {
+                    "field1": "i",
+                    "field2": {
+                      "nfield1": true,
+                      "nfield2": 9.9
                     },
-                    "level10" : {
-                      "field1" : "j",
-                      "field2" : {
-                        "nfield1" : false,
-                        "nfield2" : 10.10
+                    "level10": {
+                      "field1": "j",
+                      "field2": {
+                        "nfield1": false,
+                        "nfield2": 10.1
                       },
-                      "level11" : {
-                        "field1" : "k",
-                        "field2" : {
-                          "nfield1" : true,
-                          "nfield2" : 11.11
+                      "level11": {
+                        "field1": "k",
+                        "field2": {
+                          "nfield1": true,
+                          "nfield2": 11.11
                         },
-                        "level12" : {
-                          "field1" : "l",
-                          "field2" : {
-                            "nfield1" : false,
-                            "nfield2" : 12.12
+                        "level12": {
+                          "field1": "l",
+                          "field2": {
+                            "nfield1": false,
+                            "nfield2": 12.12
                           },
-                          "level13" : {
-                            "field1" : "m",
-                            "field2" : {
-                              "nfield1" : true,
-                              "nfield2" : 13.13
+                          "level13": {
+                            "field1": "m",
+                            "field2": {
+                              "nfield1": true,
+                              "nfield2": 13.13
                             },
-                            "level14" : {
-                              "field1" : "n",
-                              "field2" : {
-                                "nfield1" : false,
-                                "nfield2" : 14.14
+                            "level14": {
+                              "field1": "n",
+                              "field2": {
+                                "nfield1": false,
+                                "nfield2": 14.14
                               },
-                              "level15" : {
-                                "field1" : "o",
-                                "field2" : {
-                                  "nfield1" : true,
-                                  "nfield2" : 15.15
+                              "level15": {
+                                "field1": "o",
+                                "field2": {
+                                  "nfield1": true,
+                                  "nfield2": 15.15
                                 },
-                                "level16" : {
-                                  "field1" : "p",
-                                  "field2" : {
-                                    "nfield1" : false,
-                                    "nfield2" : 16.16
+                                "level16": {
+                                  "field1": "p",
+                                  "field2": {
+                                    "nfield1": false,
+                                    "nfield2": 16.16
                                   },
-                                  "level17" : {
-                                    "field1" : "q",
-                                    "field2" : {
-                                      "nfield1" : true,
-                                      "nfield2" : 17.17
+                                  "level17": {
+                                    "field1": "q",
+                                    "field2": {
+                                      "nfield1": true,
+                                      "nfield2": 17.17
                                     },
-                                    "level18" : {
-                                      "field1" : "r",
-                                      "field2" : {
-                                        "nfield1" : false,
-                                        "nfield2" : 18.18
+                                    "level18": {
+                                      "field1": "r",
+                                      "field2": {
+                                        "nfield1": false,
+                                        "nfield2": 18.18
                                       },
-                                      "level19" : {
-                                        "field1" : "s",
-                                        "field2" : {
-                                          "nfield1" : true,
-                                          "nfield2" : 19.19
+                                      "level19": {
+                                        "field1": "s",
+                                        "field2": {
+                                          "nfield1": true,
+                                          "nfield2": 19.19
                                         },
-                                        "level20" : {
-                                          "field1" : "t",
-                                          "field2" : {
-                                            "nfield1" : false,
-                                            "nfield2" : 20.20
+                                        "level20": {
+                                          "field1": "t",
+                                          "field2": {
+                                            "nfield1": false,
+                                            "nfield2": 20.2
                                           },
-                                          "level21" : {
-                                            "field1" : "u",
-                                            "field2" : {
-                                              "nfield1" : true,
-                                              "nfield2" : 21.21
+                                          "level21": {
+                                            "field1": "u",
+                                            "field2": {
+                                              "nfield1": true,
+                                              "nfield2": 21.21
                                             },
-                                            "level22" : {
-                                              "field1" : "v",
-                                              "field2" : {
-                                                "nfield1" : false,
-                                                "nfield2" : 22.22
+                                            "level22": {
+                                              "field1": "v",
+                                              "field2": {
+                                                "nfield1": false,
+                                                "nfield2": 22.22
                                               },
-                                              "level23" : {
-                                                "field1" : "w",
-                                                "field2" : {
-                                                  "nfield1" : true,
-                                                  "nfield2" : 23.23
+                                              "level23": {
+                                                "field1": "w",
+                                                "field2": {
+                                                  "nfield1": true,
+                                                  "nfield2": 23.23
                                                 },
-                                                "level24" : {
-                                                  "field1" : "x",
-                                                  "field2" : {
-                                                    "nfield1" : false,
-                                                    "nfield2" : 24.24
+                                                "level24": {
+                                                  "field1": "x",
+                                                  "field2": {
+                                                    "nfield1": false,
+                                                    "nfield2": 24.24
                                                   }
                                                 }
                                               }
@@ -167,5 +167,5 @@
       }
     }
   },
-  "_id":"ID"
+  "_id": "ID"
 }

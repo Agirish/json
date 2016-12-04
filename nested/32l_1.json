@@ -1,100 +1,68 @@
 {
-  "level1" : {
-    "field1" : "a"
-    ,
-    "level2" : {
-      "field1" : "b"
-      ,
-      "level3" : {
-        "field1" : "c"
-        ,
-        "level4" : {
-          "field1" : "d"
-          ,
-          "level5" : {
-            "field1" : "e"
-            ,
-            "level6" : {
-              "field1" : "f"
-              ,
-              "level7" : {
-                "field1" : "g"
-                ,
-                "level8" : {
-                  "field1" : "h"
-                  ,
-                  "level9" : {
-                    "field1" : "i"
-                    ,
-                    "level10" : {
-                      "field1" : "j"
-                      ,
-                      "level11" : {
-                        "field1" : "k"
-                        ,
-                        "level12" : {
-                          "field1" : "l"
-                          ,
-                          "level13" : {
-                            "field1" : "m"
-                            ,
-                            "level14" : {
-                              "field1" : "n"
-                              ,
-                              "level15" : {
-                                "field1" : "o"
-                                ,
-                                "level16" : {
-                                  "field1" : "p"
-                                  ,
-                                  "level17" : {
-                                    "field1" : "q"
-                                    ,
-                                    "level18" : {
-                                      "field1" : "r"
-                                      ,
-                                      "level19" : {
-                                        "field1" : "s"
-                                        ,
-                                        "level20" : {
-                                          "field1" : "t"
-                                          ,
-                                          "level21" : {
-                                            "field1" : "u"
-                                            ,
-                                            "level22" : {
-                                              "field1" : "v"
-                                              ,
-                                              "level23" : {
-                                                "field1" : "w"
-                                                ,
-                                                "level24" : {
-                                                  "field1" : "x"
-                                                  ,
-                                                  "level25" : {
-                                                    "field1" : "y"
-                                                    ,
-                                                    "level26" : {
-                                                      "field1" : "z"
-                                                      ,
-                                                      "level27" : {
-                                                        "field1" : "a1"
-                                                        ,
-                                                        "level28" : {
-                                                          "field1" : "b1"
-                                                          ,
-                                                          "level29" : {
-                                                            "field1" : "c1"
-                                                            ,
-                                                            "level30" : {
-                                                              "field1" : "d1"
-                                                              ,
-                                                              "level31" : {
-                                                                "field1" : "e1"
-                                                                ,
-                                                                "level32" : {
-                                                                  "field1" : "f1"
-                                                                  }
+  "level1": {
+    "field1": "a",
+    "level2": {
+      "field1": "b",
+      "level3": {
+        "field1": "c",
+        "level4": {
+          "field1": "d",
+          "level5": {
+            "field1": "e",
+            "level6": {
+              "field1": "f",
+              "level7": {
+                "field1": "g",
+                "level8": {
+                  "field1": "h",
+                  "level9": {
+                    "field1": "i",
+                    "level10": {
+                      "field1": "j",
+                      "level11": {
+                        "field1": "k",
+                        "level12": {
+                          "field1": "l",
+                          "level13": {
+                            "field1": "m",
+                            "level14": {
+                              "field1": "n",
+                              "level15": {
+                                "field1": "o",
+                                "level16": {
+                                  "field1": "p",
+                                  "level17": {
+                                    "field1": "q",
+                                    "level18": {
+                                      "field1": "r",
+                                      "level19": {
+                                        "field1": "s",
+                                        "level20": {
+                                          "field1": "t",
+                                          "level21": {
+                                            "field1": "u",
+                                            "level22": {
+                                              "field1": "v",
+                                              "level23": {
+                                                "field1": "w",
+                                                "level24": {
+                                                  "field1": "x",
+                                                  "level25": {
+                                                    "field1": "y",
+                                                    "level26": {
+                                                      "field1": "z",
+                                                      "level27": {
+                                                        "field1": "a1",
+                                                        "level28": {
+                                                          "field1": "b1",
+                                                          "level29": {
+                                                            "field1": "c1",
+                                                            "level30": {
+                                                              "field1": "d1",
+                                                              "level31": {
+                                                                "field1": "e1",
+                                                                "level32": {
+                                                                  "field1": "f1"
                                                                 }
                                                               }
                                                             }
@@ -126,6 +94,6 @@
         }
       }
     }
-  ,
-  "_id":"ID"
+  },
+  "_id": "ID"
 }

@@ -1,17 +1,17 @@
 {
-  "level1" : {
-    "field1" : "a",
-    "field2" : {
-      "nfield1" : false,
-      "nfield2" : 1.1
+  "level1": {
+    "field1": "a",
+    "field2": {
+      "nfield1": false,
+      "nfield2": 1.1
     },
-    "level2" : {
-      "field1" : "b",
-      "field2" : {
-        "nfield1" : false,
-        "nfield2" : 2.2
+    "level2": {
+      "field1": "b",
+      "field2": {
+        "nfield1": false,
+        "nfield2": 2.2
       }
     }
   },
-  "_id":"ID"
+  "_id": "ID"
 }

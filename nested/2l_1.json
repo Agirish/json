@@ -1,9 +1,9 @@
 {
-  "level1" : {
-    "field1" : "a",
-    "level2" : {
-      "field1" : "b"
+  "level1": {
+    "field1": "a",
+    "level2": {
+      "field1": "b"
     }
   },
-  "_id":"ID"
+  "_id": "ID"
 }

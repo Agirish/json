@@ -1,51 +1,51 @@
 {
-  "level1" : {
-    "field1" : "a",
-    "field2" : {
-      "nfield1" : false,
-      "nfield2" : 1.1
+  "level1": {
+    "field1": "a",
+    "field2": {
+      "nfield1": false,
+      "nfield2": 1.1
     },
-    "level2" : {
-      "field1" : "b",
-      "field2" : {
-        "nfield1" : false,
-        "nfield2" : 2.2
+    "level2": {
+      "field1": "b",
+      "field2": {
+        "nfield1": false,
+        "nfield2": 2.2
       },
-      "level3" : {
-        "field1" : "c",
-        "field2" : {
-          "nfield1" : true,
-          "nfield2" : 3.3
+      "level3": {
+        "field1": "c",
+        "field2": {
+          "nfield1": true,
+          "nfield2": 3.3
         },
-        "level4" : {
-          "field1" : "d",
-          "field2" : {
-            "nfield1" : false,
-            "nfield2" : 4.4
+        "level4": {
+          "field1": "d",
+          "field2": {
+            "nfield1": false,
+            "nfield2": 4.4
           },
-          "level5" : {
-            "field1" : "e",
-            "field2" : {
-              "nfield1" : true,
-              "nfield2" : 5.5
+          "level5": {
+            "field1": "e",
+            "field2": {
+              "nfield1": true,
+              "nfield2": 5.5
             },
-            "level6" : {
-              "field1" : "f",
-              "field2" : {
-                "nfield1" : false,
-                "nfield2" : 6.6
+            "level6": {
+              "field1": "f",
+              "field2": {
+                "nfield1": false,
+                "nfield2": 6.6
               },
-              "level7" : {
-                "field1" : "g",
-                "field2" : {
-                  "nfield1" : true,
-                  "nfield2" : 7.7
+              "level7": {
+                "field1": "g",
+                "field2": {
+                  "nfield1": true,
+                  "nfield2": 7.7
                 },
-                "level8" : {
-                  "field1" : "h",
-                  "field2" : {
-                    "nfield1" : false,
-                    "nfield2" : 8.8 
+                "level8": {
+                  "field1": "h",
+                  "field2": {
+                    "nfield1": false,
+                    "nfield2": 8.8
                   }
                 }
               }
@@ -55,5 +55,5 @@
       }
     }
   },
-  "_id":"ID"
+  "_id": "ID"
 }
