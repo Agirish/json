@@ -1,0 +1,15 @@
+{
+  "level1" : {
+    "field1" : "a",
+    "level2" : {
+      "field1" : "b",
+      "level3" : {
+        "field1" : "c",
+        "level4" : {
+          "field1" : "d"
+          }
+        }
+      }
+    },
+  "_id":"ID"
+}

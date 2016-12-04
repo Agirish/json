@@ -1,0 +1,9 @@
+{
+  "level1" : {
+    "field1" : "a",
+    "field2" : {
+      "nfield1" : false,
+      "nfield2" : 1.1
+  },
+  "_id":"ID"
+}
